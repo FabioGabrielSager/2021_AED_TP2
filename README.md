@@ -1,6 +1,7 @@
 # 2021_AED_TP2_2021
 Trabajo practico grupal N° 2 de la asignatura Algoritmos Y Estructuras De Datos - UTN FRC
 La tematica es deserrollar un juego simple (de terminal) que consiste en el lazamiento de tres dados. El mismo sigue las siguientes reglas:
+    
     1) los jugadores lazan 3 dados y deben apostar por par o impar.
 
     2) si la suma de los 3 dados es de la paridad apostada suma como puntos, el valor del dado mas grande; en caso contrario, resta el dado de menor valor a su puntaje, 
