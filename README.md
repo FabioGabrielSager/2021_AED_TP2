@@ -1,5 +1,6 @@
-# 2021_AED_TP2_2021
-Trabajo practico grupal N° 2 de la asignatura Algoritmos Y Estructuras De Datos - UTN FRC.\n
+# 2021_AED_TP2
+Trabajo practico grupal N° 2 de la asignatura Algoritmos Y Estructuras De Datos - UTN FRC.
+
 La tematica consistia en deserrollar un juego simple (de terminal) que consiste en el lazamiento de tres dados. El mismo sigue las siguientes reglas:
     
     1) los jugadores lazan 3 dados y deben apostar por par o impar.
